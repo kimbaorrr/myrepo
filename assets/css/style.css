@@ -15,11 +15,6 @@ body {
     transition: all 0.3s ease-out;
 }
 
-.card-wrapper .card-img img .imgg {
-	max-width: 81%!important;
-	height: auto!important;
-}
-
 .card-wrapper .card-img img {
     transition: all 0.3s ease-in-out;
     border-radius: 0.25rem;
